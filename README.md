@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=deepanshu-rawat6&theme=cobalt&show_icons=true&count_private=true&size=small">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu-rawat6&theme=cobalt">
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=deepanshu-rawat6&theme=cobalt&show_icons=true&count_private=true&size=small" width=300px height=250px>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu-rawat6&theme=cobalt" width=300px height=250px>
 </div>
 
 
