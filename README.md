@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Deepanshu!](https://bio.link/deepanshgk) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Deepanshu !](https://bio.link/deepanshgk) 
 
 <!--
 **deepanshu-rawat6/deepanshu-rawat6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
