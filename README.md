@@ -29,6 +29,14 @@ Here are some ideas to get you started:
 <hr size="2">
 <img src="https://activity-graph.herokuapp.com/graph?username=deepanshu-rawat6&theme=redical">
 
+<hr size="2">
+
+<p align="center">
+  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
+<hr size="2">
+
 
 ### [Connect with me ... 💬](https://bio.link/deepanshgk) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=deepanshu-rawat6.deepanshu-rawat6)
