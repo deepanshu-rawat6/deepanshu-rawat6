@@ -1,5 +1,7 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Deepanshu !](https://bio.link/deepanshgk) 
 
+[![@deepanshurawat6's Holopin board](https://holopin.io/api/user/board?user=deepanshurawat6)](https://holopin.io/@deepanshurawat6)
+
 <div align="center">
 I'm a DevOps Enthusiast, a sophomore at University of Petroleum and Energy Studies <br> Currenly pursuing BTech(H) CSE in DevOps.
 </div>
@@ -36,9 +38,6 @@ Here are some ideas to get you started:
 </p>
 <hr size="2">
 -->
-
-[![@deepanshurawat6's Holopin board](https://holopin.io/api/user/board?user=deepanshurawat6)](https://holopin.io/@deepanshurawat6)
-
 
 ### [Connect with me ... 💬](https://bio.link/deepanshgk) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=deepanshu-rawat6.deepanshu-rawat6)
