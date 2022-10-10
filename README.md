@@ -2,6 +2,8 @@
 
 [![@deepanshurawat6's Holopin board](https://holopin.io/api/user/board?user=deepanshurawat6)](https://holopin.io/@deepanshurawat6)
 
+<hr size="6">
+
 <div align="center">
 I'm a DevOps Enthusiast, a sophomore at University of Petroleum and Energy Studies <br> Currenly pursuing BTech(H) CSE in DevOps.
 </div>
