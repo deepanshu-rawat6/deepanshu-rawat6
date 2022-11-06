@@ -4,11 +4,11 @@
 ---
 
 <div align="center">
-I'm a DevOps and Web Dev Enthusiast, a sophomore at University of Petroleum and Energy Studies <br> Currenly pursuing BTech(H) CSE in DevOps.
+I'm a DevOps and Web Dev Enthusiast, a sophomore at University of Petroleum and Energy Studies <br> Currenly pursuing BTech CSE in DevOps.
 </div>
 
 
-## 📈Statss
+## 📈Stats
  
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=deepanshu-rawat6&theme=cobalt&show_icons=true&count_private=true&size=small" width=350px>
