@@ -8,7 +8,7 @@ I'm a DevOps and Web Dev Enthusiast, a sophomore at University of Petroleum and 
 </div>
 
 
-## 📈Stats
+## 📈Statss
  
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=deepanshu-rawat6&theme=cobalt&show_icons=true&count_private=true&size=small" width=350px>
