@@ -15,8 +15,8 @@ I'm a DevOps and Web Dev Enthusiast, a sophomore at University of Petroleum and 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu-rawat6&theme=cobalt" width=350px>
 </div>
 
----
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=deepanshu-rawat6&theme=redical)
+<!-- --- -->
+<!-- ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=deepanshu-rawat6&theme=redical) -->
 ---
 
 ![Snake animation](https://github.com/deepanshu-rawat6/deepanshu-rawat6/blob/output/github-contribution-grid-snake.svg)
