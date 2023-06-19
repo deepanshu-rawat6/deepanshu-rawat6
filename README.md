@@ -4,7 +4,7 @@
 ---
 
 <div align="center">
-I'm a DevOps and Web Dev Enthusiast, a sophomore at University of Petroleum and Energy Studies <br> Currenly pursuing BTech CSE in DevOps.
+I'm a DevOps and Web Dev Enthusiast, a pre-final year student at University of Petroleum and Energy Studies <br> Currenly pursuing BTech CSE in DevOps.
 </div>
 
 
