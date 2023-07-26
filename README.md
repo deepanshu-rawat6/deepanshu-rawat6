@@ -41,4 +41,6 @@ I'm a <b>DevOps</b> and <b>Web Dev</b> Enthusiast, a pre-final year student at t
 ---
 
 ### [Connect with me ... 💬](https://bio.link/deepanshgk) 
+[![Peerlist](https://github-readme-badge.peerlist.io/api/deepanshurawat6?style=social)](https://peerlist.io/deepanshurawat6) 
+---
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=deepanshu-rawat6.deepanshu-rawat6)
