@@ -24,10 +24,13 @@ I'm a <b>DevOps</b> and <b>Web Dev</b> Enthusiast, a pre-final year student at t
 ### ☁️ *Cloud Providers*
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,netlify&theme=dark)](https://skillicons.dev)
 
+### 📜 *Scripting*
+[![My Skills](https://skillicons.dev/icons?i=bash&theme=dark)](https://skillicons.dev)
+
 ### 👀 *Devops*
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,grafana,prometheus&theme=dark)](https://skillicons.dev)
 
-### *Other Tools*
+### *Other Tools/IDEs*
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,maven&theme=dark)](https://skillicons.dev)
 
 ## 📈Stats
