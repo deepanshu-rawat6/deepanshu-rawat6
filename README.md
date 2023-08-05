@@ -16,19 +16,19 @@ I'm a <b>DevOps</b> and <b>Web Dev</b> Enthusiast, a pre-final year student at t
 ## **Devlopment Tools**
 
 ### 🧑🏻‍💻 *Languages and Frameworks*
-[![My Skills](https://skillicons.dev/icons?i=java,py,js,html,css,go,nodejs,express,flask&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,java,py,flask,js,nodejs,express,html,css&theme=dark)](https://skillicons.dev)
 
 ### 🛅 *Databases*
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=dark)](https://skillicons.dev)
 
 ### ☁️ *Cloud Providers*
-[![My Skills](https://skillicons.dev/icons?i=aws,netlify&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,netlify&theme=dark)](https://skillicons.dev)
 
 ### 👀 *Devops*
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,grafana,prometheus&theme=dark)](https://skillicons.dev)
 
 ### *Other Tools*
-[![My Skills](https://skillicons.dev/icons?i=git,github,maven,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,maven&theme=dark)](https://skillicons.dev)
 
 ## 📈Stats
  
