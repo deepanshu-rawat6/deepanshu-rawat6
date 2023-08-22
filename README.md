@@ -43,6 +43,10 @@ I'm a <b>DevOps</b> and <b>Web Dev</b> Enthusiast, a pre-final year student at t
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu-rawat6&theme=tokyonight" width=350px>
 </div>
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 
 
 ### [Connect with me ... 💬](https://bio.link/deepanshgk) 
