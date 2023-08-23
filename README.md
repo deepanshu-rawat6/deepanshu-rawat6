@@ -22,7 +22,7 @@ I'm a <b>DevOps</b> and <b>Web Dev</b> Enthusiast, a pre-final year student at t
 [![My Skills](https://skillicons.dev/icons?i=go,java,py,flask,js,nodejs,express,html,css&theme=dark)](https://skillicons.dev)
 
 ### 🛅 *Databases*
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark)](https://skillicons.dev)
 
 ### ☁️ *Cloud Providers*
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,netlify&theme=dark)](https://skillicons.dev)
