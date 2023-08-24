@@ -36,12 +36,7 @@ I'm a <b>DevOps</b> and <b>Web Dev</b> Enthusiast, a pre-final year student at t
 ### *Other Tools/IDEs*
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,maven&theme=dark)](https://skillicons.dev)
 
-## 📈Stats
- 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=deepanshu-rawat6&theme=tokyonight&show_icons=true&count_private=true&size=small" width=350px>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu-rawat6&theme=tokyonight" width=350px>
-</div>
+# Wakatime Stats📈
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2045%20mins-blue)
