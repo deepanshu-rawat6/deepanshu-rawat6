@@ -4,11 +4,11 @@ on:
   workflow_dispatch:
   schedule:
     # Runs at 00:00AM UTC
-    - cron: '0 */12 * * *'
+    - cron: '0 */6 * * *'
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Deepanshu's README
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
