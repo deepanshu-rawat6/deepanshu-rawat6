@@ -53,9 +53,9 @@ I'm a <b>DevOps</b> and <b>Web Dev</b> Enthusiast, a pre-final year student at t
  > 
 > 💼 Opted to Hire
  > 
-> 📜 47 Public Repositories 
+> 📜 49 Public Repositories 
  > 
-> 🔑 32 Private Repositories 
+> 🔑 30 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -111,7 +111,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2023 12:25:55 UTC
+ Last Updated on 05/09/2023 18:17:38 UTC
 <!--END_SECTION:waka-->
 
 
