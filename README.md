@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Deepanshu !](https://bio.link/deepanshgk) 
+## Hey, I'm [Deepanshu](https://bio.link/deepanshgk)!
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/deepanshuurawat?label=Follow)](https://twitter.com/intent/follow?screen_name=deepanshuurawat)
 [![Linkedin: anmol](https://img.shields.io/badge/-deepanshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepanshu-rawat6/)](https://www.linkedin.com/in/deepanshu-rawat6/)
