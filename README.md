@@ -19,7 +19,7 @@ I'm a <b>DevOps</b> and <b>Web Dev</b> Enthusiast, a pre-final year student at t
 ## **Devlopment Tools**
 
 ### 🧑🏻‍💻 *Languages and Frameworks*
-[![My Skills](https://skillicons.dev/icons?i=go,java,py,flask,js,nodejs,express,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,java,py,flask,js,ts,nodejs,express,html,css&theme=dark)](https://skillicons.dev)
 
 ### 🛅 *Databases*
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark)](https://skillicons.dev)
