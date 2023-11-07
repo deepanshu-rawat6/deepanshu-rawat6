@@ -39,7 +39,7 @@ I'm a <b>DevOps</b> and <b>Web Dev</b> Enthusiast, a pre-final year student at t
 # Wakatime Stats📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -111,7 +111,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/11/2023 18:18:14 UTC
+ Last Updated on 07/11/2023 00:59:52 UTC
 <!--END_SECTION:waka-->
 
 
