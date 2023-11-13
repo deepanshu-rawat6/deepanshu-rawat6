@@ -18,7 +18,7 @@ I'm a <b>DevOps</b> and <b>Web Dev</b> Enthusiast, a pre-final year student at t
 
 ## **Devlopment Tools**
 
-### 🧑🏻‍💻 *Languages and Frameworks*
+### 🧑🏻‍💻 *Languages*
 [![My Skills](https://skillicons.dev/icons?i=go,java,py,js,ts,html,css&theme=dark)](https://skillicons.dev)
 
 ### 🔎 *Frameworks*
