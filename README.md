@@ -42,7 +42,7 @@ I'm a <b>DevOps</b> and <b>Web Dev</b> Enthusiast, a pre-final year student at t
 # Wakatime Stats📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -87,13 +87,16 @@ Sunday                   139 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     4 mins              ████████████████████████░   94.07 % 
+Docker                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Manifest                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 4 mins              ████████████████████████░   96.85 % 
+VS Code                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -109,7 +112,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/11/2023 18:18:34 UTC
+ Last Updated on 30/11/2023 01:01:24 UTC
 <!--END_SECTION:waka-->
 
 
