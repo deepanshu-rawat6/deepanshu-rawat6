@@ -42,7 +42,7 @@ I'm a <b>DevOps</b> and <b>Web Dev</b> Enthusiast, a pre-final year student at t
 # Wakatime Stats📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -112,7 +112,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/11/2023 01:01:24 UTC
+ Last Updated on 30/11/2023 06:19:02 UTC
 <!--END_SECTION:waka-->
 
 
