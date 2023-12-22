@@ -50,7 +50,7 @@ I'm a <b>DevOps</b> and <b>Web Dev</b> Enthusiast, a pre-final year student at t
 
 **🐱 My GitHub Data** 
 
-> 📦 137.2 kB Used in GitHub's Storage 
+> 📦 137.3 kB Used in GitHub's Storage 
  > 
 > 🏆 602 Contributions in the Year 2023
  > 
@@ -109,7 +109,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/12/2023 12:25:21 UTC
+ Last Updated on 22/12/2023 18:17:19 UTC
 <!--END_SECTION:waka-->
 
 
