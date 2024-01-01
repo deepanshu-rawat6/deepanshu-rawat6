@@ -42,7 +42,7 @@ I'm a <b>DevOps</b> and <b>Web Dev</b> Enthusiast, a pre-final year student at t
 # Wakatime Stats📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -52,7 +52,7 @@ I'm a <b>DevOps</b> and <b>Web Dev</b> Enthusiast, a pre-final year student at t
 
 > 📦 137.3 kB Used in GitHub's Storage 
  > 
-> 🏆 612 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -87,17 +87,17 @@ Sunday                   133 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Go                       3 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   30.95 % 
-JSON                     2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
-TypeScript               2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
-Prisma                   1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Markdown                 57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Go                       3 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   28.82 % 
+TypeScript               2 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   27.51 % 
+JSON                     1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Prisma                   1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Markdown                 57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 12 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 49 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  12 hrs 12 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -113,7 +113,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2023 18:16:20 UTC
+ Last Updated on 01/01/2024 01:06:32 UTC
 <!--END_SECTION:waka-->
 
 
