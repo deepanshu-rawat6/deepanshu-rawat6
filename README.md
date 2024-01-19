@@ -44,7 +44,7 @@ I'm a <b>DevOps</b> and <b>Web Dev</b> Enthusiast, a pre-final year student at t
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-128%20hrs%2027%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-592.7%20thousand%20lines%20of%20code-blue)
 
@@ -104,17 +104,17 @@ Windows                  7 hrs 21 mins       ███████████�
 **I Mostly Code in Java** 
 
 ```text
-Python                   9 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-HCL                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Python                   9 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+HCL                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 
 
 
 
- Last Updated on 19/01/2024 06:19:16 UTC
+ Last Updated on 19/01/2024 12:26:44 UTC
 <!--END_SECTION:waka-->
 
 
