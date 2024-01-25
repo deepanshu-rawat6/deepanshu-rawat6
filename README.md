@@ -42,7 +42,7 @@ I'm a <b>DevOps</b> and <b>Web Dev</b> Enthusiast, a pre-final year student at t
 # Wakatime Stats📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-133%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
@@ -113,7 +113,7 @@ HCL                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/01/2024 01:03:52 UTC
+ Last Updated on 25/01/2024 06:19:44 UTC
 <!--END_SECTION:waka-->
 
 
