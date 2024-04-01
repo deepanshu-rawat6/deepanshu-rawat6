@@ -42,7 +42,7 @@ I'm a <b>DevOps</b> and <b>Web Dev</b> Enthusiast, a pre-final year student at t
 # Wakatime Stats📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-259%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-259%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -54,7 +54,7 @@ I'm a <b>DevOps</b> and <b>Web Dev</b> Enthusiast, a pre-final year student at t
  > 
 > 💼 Opted to Hire
  > 
-> 📜 59 Public Repositories 
+> 📜 58 Public Repositories 
  > 
 > 🔑 38 Private Repositories 
  > 
@@ -113,7 +113,7 @@ HCL                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/04/2024 06:18:55 UTC
+ Last Updated on 01/04/2024 12:26:32 UTC
 <!--END_SECTION:waka-->
 
 
