@@ -42,6 +42,8 @@ I'm a <b>DevOps</b> and <b>Web Dev</b> Enthusiast, a pre-final year student at t
 # Wakatime Stats📈
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-280%20hrs%207%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-610.2%20thousand%20lines%20of%20code-blue)
@@ -111,7 +113,7 @@ HCL                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/04/2024 00:59:33 UTC
+ Last Updated on 11/04/2024 06:18:37 UTC
 <!--END_SECTION:waka-->
 
 
