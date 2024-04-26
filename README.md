@@ -42,7 +42,7 @@ I'm a <b>DevOps</b> and <b>Web Dev</b> Enthusiast, a pre-final year student at t
 # Wakatime Stats📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-314%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-314%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
@@ -115,7 +115,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/04/2024 01:00:25 UTC
+ Last Updated on 26/04/2024 06:20:16 UTC
 <!--END_SECTION:waka-->
 
 
