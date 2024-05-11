@@ -22,7 +22,7 @@ I'm a <b>DevOps</b> and <b>Web Dev</b> Enthusiast, a pre-final year student at t
 [![My Skills](https://skillicons.dev/icons?i=go,java,py,js,ts,html,css&theme=dark)](https://skillicons.dev)
 
 ### 🔎 *Frameworks*
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,next&theme=dark)](https://skillicons.dev)
 
 ### 🛅 *Databases*
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,prisma&theme=dark)](https://skillicons.dev)
@@ -31,13 +31,16 @@ I'm a <b>DevOps</b> and <b>Web Dev</b> Enthusiast, a pre-final year student at t
 [![My Skills](https://skillicons.dev/icons?i=aws,netlify&theme=dark)](https://skillicons.dev)
 
 ### 📜 *Scripting*
-[![My Skills](https://skillicons.dev/icons?i=bash&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell&theme=dark)](https://skillicons.dev)
 
 ### 👀 *Devops*
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,grafana,prometheus&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,grafana,prometheus,terraform,ansible,selenium&theme=dark)](https://skillicons.dev)
+
+### 💻 *OS*
+[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,linux&theme=dark)](https://skillicons.dev)
 
 ### *Other Tools/IDEs*
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,maven&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,vim,maven,postman,pnpm,npm&theme=dark)](https://skillicons.dev)
 
 # Wakatime Stats📈
 
