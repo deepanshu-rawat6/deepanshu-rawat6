@@ -7,13 +7,13 @@
 
 
 <div align="center">
-I'm a <b>DevOps</b> and <b>Web Dev</b> Enthusiast, a pre-final year student at the University of Petroleum and Energy Studies <br> Currently pursuing BTech CSE(Hons.) specializing in DevOps.
+I'm a <b>DevOps</b> and <b>Full Stack</b> Enthusiast, a pre-final year student at the University of Petroleum and Energy Studies <br> Currently pursuing BTech CSE(Hons.) specializing in DevOps.
 </div>
 
 <br>
 
 <div align="center">
- <b>Let's collaborate on cloud-native projects!🚀</b>
+ <b>Let's collaborate on full stack and cloud-native projects!🚀</b>
 </div>
 
 ## **Devlopment Tools**
