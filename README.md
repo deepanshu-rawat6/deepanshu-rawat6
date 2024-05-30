@@ -90,16 +90,13 @@ Sunday                   160 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     39 mins             ██████████████░░░░░░░░░░░   54.00 % 
-JavaScript               34 mins             ████████████░░░░░░░░░░░░░   46.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Intellijidea             39 mins             ██████████████░░░░░░░░░░░   54.00 % 
-VS Code                  34 mins             ████████████░░░░░░░░░░░░░   46.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  39 mins             ██████████████░░░░░░░░░░░   54.00 % 
-WSL                      34 mins             ████████████░░░░░░░░░░░░░   46.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -115,7 +112,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/05/2024 18:19:39 UTC
+ Last Updated on 30/05/2024 01:04:06 UTC
 <!--END_SECTION:waka-->
 
 
