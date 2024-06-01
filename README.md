@@ -45,7 +45,7 @@ I'm a <b>DevOps</b> and <b>Full Stack</b> Enthusiast, a pre-final year student a
 # Wakatime Stats📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-334%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-333%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -90,13 +90,17 @@ Sunday                   160 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               42 mins             ████████████████░░░░░░░░░   62.48 % 
+TypeScript               15 mins             ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+Markdown                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -112,7 +116,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/05/2024 18:19:31 UTC
+ Last Updated on 01/06/2024 01:07:13 UTC
 <!--END_SECTION:waka-->
 
 
