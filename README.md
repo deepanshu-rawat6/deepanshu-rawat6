@@ -45,7 +45,7 @@ I'm a <b>DevOps</b> and <b>Full Stack</b> Enthusiast, a pre-final year student a
 # Wakatime Stats📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-337%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-336%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -54,8 +54,6 @@ I'm a <b>DevOps</b> and <b>Full Stack</b> Enthusiast, a pre-final year student a
 **🐱 My GitHub Data** 
 
 > 📦 214.0 kB Used in GitHub's Storage 
- > 
-> 🏆 202 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -90,17 +88,17 @@ Sunday                   160 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 31 mins        ██████████████░░░░░░░░░░░   55.55 % 
-JavaScript               42 mins             ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
-JSON                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+TypeScript               2 hrs 35 mins       █████████████████░░░░░░░░   67.90 % 
+JavaScript               42 mins             █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
+JSON                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 44 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 48 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      2 hrs 44 mins       █████████████████████████   100.00 % 
+WSL                      3 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -116,7 +114,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/06/2024 18:20:04 UTC
+ Last Updated on 03/06/2024 01:04:55 UTC
 <!--END_SECTION:waka-->
 
 
