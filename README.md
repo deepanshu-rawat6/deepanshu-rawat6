@@ -7,7 +7,7 @@
 
 
 <div align="center">
-I'm a <b>DevOps</b> and <b>Full Stack</b> Enthusiast, a pre-final year student at the University of Petroleum and Energy Studies <br> Currently pursuing BTech CSE(Hons.) specializing in DevOps.
+I'm a <b>DevOps</b> and <b>Full Stack</b> Enthusiast, a final year student at the University of Petroleum and Energy Studies <br> Currently pursuing BTech CSE(Hons.) specializing in DevOps.
 </div>
 
 <br>
