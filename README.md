@@ -21,8 +21,8 @@ I'm a <b>DevOps</b> and <b>Full Stack</b> Enthusiast, a final year student at th
 ### 🧑🏻‍💻 *Languages*
 [![My Skills](https://skillicons.dev/icons?i=go,java,py,js,ts,html,css&theme=dark)](https://skillicons.dev)
 
-### 🔎 *Frameworks*
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express&theme=dark)](https://skillicons.dev)
+### 🔎 *Libraries/Runtimes/Frameworks*
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,react&theme=dark)](https://skillicons.dev)
 
 ### 🛅 *Databases*
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,prisma&theme=dark)](https://skillicons.dev)
