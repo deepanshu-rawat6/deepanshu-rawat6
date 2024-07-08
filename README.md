@@ -55,8 +55,6 @@ I'm a <b>DevOps</b> and <b>Full Stack</b> Enthusiast, a final year student at th
 
 > 📦 217.1 kB Used in GitHub's Storage 
  > 
-> 🏆 253 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 69 Public Repositories 
@@ -118,7 +116,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/07/2024 06:22:40 UTC
+ Last Updated on 08/07/2024 12:30:18 UTC
 <!--END_SECTION:waka-->
 
 
