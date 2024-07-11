@@ -45,7 +45,7 @@ I'm a <b>DevOps</b> and <b>Full Stack</b> Enthusiast, a final year student at th
 # Wakatime Stats📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-379%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-379%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
@@ -54,8 +54,6 @@ I'm a <b>DevOps</b> and <b>Full Stack</b> Enthusiast, a final year student at th
 **🐱 My GitHub Data** 
 
 > 📦 222.4 kB Used in GitHub's Storage 
- > 
-> 🏆 258 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -118,7 +116,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/07/2024 12:30:12 UTC
+ Last Updated on 11/07/2024 18:20:55 UTC
 <!--END_SECTION:waka-->
 
 
