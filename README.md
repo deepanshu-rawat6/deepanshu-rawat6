@@ -40,7 +40,7 @@ I'm a <b>DevOps</b> and <b>Full Stack</b> Enthusiast, a final year student at th
 [![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,linux&theme=dark)](https://skillicons.dev)
 
 ### *Other Tools/IDEs*
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,vim,maven,postman,pnpm,npm&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,vim,maven,postman,pnpm,npm,kafka,rabbitmq&theme=dark)](https://skillicons.dev)
 
 # Wakatime Stats📈
 
