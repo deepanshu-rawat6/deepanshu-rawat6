@@ -19,28 +19,28 @@ I'm a <b>DevOps</b> and <b>Full Stack</b> Enthusiast, a final year student at th
 ## **Devlopment Tools**
 
 ### 🧑🏻‍💻 *Languages*
-[![My Skills](https://skillicons.dev/icons?i=go,java,py,js,ts,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,ts&theme=dark)](https://skillicons.dev)
 
 ### 🔎 *Libraries/Runtimes/Frameworks*
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,react&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,spring&theme=dark)](https://skillicons.dev)
 
 ### 🛅 *Databases*
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,prisma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,prisma&theme=dark)](https://skillicons.dev)
 
 ### ☁️ *Cloud Providers*
-[![My Skills](https://skillicons.dev/icons?i=aws,netlify&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws&theme=dark)](https://skillicons.dev)
 
 ### 📜 *Scripting*
 [![My Skills](https://skillicons.dev/icons?i=bash,powershell&theme=dark)](https://skillicons.dev)
 
 ### 👀 *Devops*
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,grafana,prometheus,terraform,ansible,selenium&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,grafana,prometheus,terraform,selenium&theme=dark)](https://skillicons.dev)
 
 ### 💻 *OS*
-[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,linux&theme=dark)](https://skillicons.dev)
 
 ### *Other Tools/IDEs*
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,vim,maven,postman,pnpm,npm,kafka,rabbitmq&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,vim,maven,postman,pnpm,npm,rabbitmq&theme=dark)](https://skillicons.dev)
 
 # Wakatime Stats📈
 
