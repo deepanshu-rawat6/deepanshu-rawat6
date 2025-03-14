@@ -4,7 +4,7 @@ I'm Deepanshu - I'm a DevOps Engineer in making. I mostly work on a random backe
 
 Here's my [portfolio](https://bento.me/deepanshu-rawat6) 👀
 
-## **Devlopment Tools**
+## **Stack 📚**
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,js,ts,nodejs,express,mysql,postgres,prisma,aws,bash,docker,kubernetes,jenkins,githubactions,grafana,prometheus,terraform,&theme=dark)](https://skillicons.dev)
 
