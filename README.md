@@ -1,6 +1,6 @@
 ## Hey There! 👋!
 
-I'm Deepanshu - I'm a DevOps Engineer in making. I work on a ton of random backend and devops centric projects in my free time.
+I'm Deepanshu - I'm a DevOps Engineer in making. I mostly work on a random backend and devops projects in my free time, currently exploring AWS, Jenkins, Kubernetes.
 
 Here's my [portfolio](https://bento.me/deepanshu-rawat6) 👀
 
