@@ -6,7 +6,7 @@ Here's my [portfolio](https://bento.me/deepanshu-rawat6) 👀
 
 ## **Stack 📚**
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,js,ts,nodejs,express,mysql,postgres,prisma,aws,bash,docker,kubernetes,jenkins,githubactions,grafana,prometheus,terraform,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,idea,vscode,py,mysql,postgres,prisma,git,github,aws,bash,docker,kubernetes,jenkins,githubactions,grafana,prometheus,terraform,ansible,nginx,obsidian&theme=dark)](https://skillicons.dev)
 
 <details>
   <summary>Github Stats 🙈</summary>
