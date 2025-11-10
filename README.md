@@ -2,6 +2,8 @@
 
 I'm Deepanshu - I'm a DevOps Engineer in making. I mostly work on a backend and devops projects in my free time, currently exploring AWS, Jenkins, Kubernetes.
 
+Author: [armorcode-release-gate-plugin](https://github.com/jenkinsci/armorcode-release-gate-plugin)
+
 Here's my [portfolio](https://bento.me/deepanshu-rawat6) 👀
 
 ## **Stack 📚**
